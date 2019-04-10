@@ -6,7 +6,7 @@ Clone the source code:
 
 - https://github.com/topcoder-platform/autopilot-application
 
-After that, be sure to switch to the right branch (**maven**) to develop and deploy.
+After that, be sure to switch to the right branch (**maven**) to develop and deploy. Make sure to checkout the git submodules too with `git submodule update --init`
 
 ## Build Image - Optional
 
